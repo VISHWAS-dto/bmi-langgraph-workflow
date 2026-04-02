@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain-core
+typing-extensions
+ipykernel
+jupyter
