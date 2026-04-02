@@ -51,5 +51,6 @@ jupyter notebook
 
 ## Author 
 Vishwas Shankar  
-Aspiring Data Scientist | ML & RAG Enthusiast
-linkedin: https://www.linkedin.com/in/vishwas-kori/
+Aspiring Data Scientist | ML & RAG Enthusiast, 
+# linkedin
+https://www.linkedin.com/in/vishwas-kori/
