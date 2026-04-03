@@ -50,7 +50,7 @@ jupyter notebook
 * Add input validation and error handling
 
 ## Author 
-Vishwas Shankar  
+Vishwas Shankar Kori
 Aspiring Data Scientist | ML & RAG Enthusiast, 
 # linkedin
 https://www.linkedin.com/in/vishwas-kori/
